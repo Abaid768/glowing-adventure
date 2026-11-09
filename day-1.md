@@ -24,4 +24,3 @@
 - [ ] This task is not complete
 
 
-## ⌨️ Activity: Add ideas and goals to our morning plan
